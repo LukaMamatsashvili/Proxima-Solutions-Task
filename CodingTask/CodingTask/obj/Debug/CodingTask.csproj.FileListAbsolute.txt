@@ -1,0 +1,11 @@
+C:\Users\lukam\source\repos\CodingTask\CodingTask\obj\Debug\CodingTask.csproj.AssemblyReference.cache
+C:\Users\lukam\source\repos\CodingTask\CodingTask\obj\Debug\CodingTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukam\source\repos\CodingTask\CodingTask\obj\Debug\CodingTask.Form1.resources
+C:\Users\lukam\source\repos\CodingTask\CodingTask\obj\Debug\CodingTask.Properties.Resources.resources
+C:\Users\lukam\source\repos\CodingTask\CodingTask\obj\Debug\CodingTask.csproj.GenerateResource.cache
+C:\Users\lukam\source\repos\CodingTask\CodingTask\obj\Debug\CodingTask.csproj.CoreCompileInputs.cache
+C:\Users\lukam\source\repos\CodingTask\CodingTask\bin\Debug\CodingTask.exe.config
+C:\Users\lukam\source\repos\CodingTask\CodingTask\bin\Debug\CodingTask.exe
+C:\Users\lukam\source\repos\CodingTask\CodingTask\bin\Debug\CodingTask.pdb
+C:\Users\lukam\source\repos\CodingTask\CodingTask\obj\Debug\CodingTask.exe
+C:\Users\lukam\source\repos\CodingTask\CodingTask\obj\Debug\CodingTask.pdb
